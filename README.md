@@ -1,4 +1,4 @@
-### Support Material for the paper "Optimising Dynamic Traffic Distribution for Urban Networks with Answer Set Programming" submitted at JELIA-23
+### Support Material for the paper "Optimising Dynamic Traffic Distribution for Urban Networks with Answer Set Programming" submitted at ICLP-24
 
 You will find in the `encoding.lp` file an example of the encoding presented in the paper.
 
